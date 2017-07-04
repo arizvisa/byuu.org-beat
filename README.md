@@ -17,11 +17,11 @@ See [Original README](http://htmlpreview.github.io/?https://github.com/eai04191/
 
 ## Download
 
-[Windows Binary](/blob/master/beat/beat.exe)
+[Windows Binary](/beat/beat.exe)
 
-## Licence
+## License
 
-[GPLv3](/LICENCE)
+[GPLv3](/LICENSE)
 
 ## Original Author
 
