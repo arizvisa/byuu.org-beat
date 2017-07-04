@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="resource">
+  <binary id="apply" name="document-save.png"/>
+  <binary id="file" name="text-x-script.png"/>
+  <binary id="path" name="folder.png"/>
+  <binary id="help" name="help-browser.png"/>
+</resource>
