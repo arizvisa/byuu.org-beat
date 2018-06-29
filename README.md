@@ -13,7 +13,7 @@ beat is a delta-based binary differencing patcher and specification. It encodes 
 
 ## Description
 
-See [Original README](http://htmlpreview.github.io/?https://github.com/eai04191/beat/blob/master/beat/beat.html).
+See [Original README](http://htmlpreview.github.io/?https://github.com/chiya/beat/blob/master/beat/beat.html).
 
 ## Download
 
